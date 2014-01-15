@@ -1,0 +1,28 @@
+{
+  "name": "grunt-remote-task",
+  "version": "0.0.1",
+  "description": "Grunt task for remote.",
+  "keywords": [
+    "grunt"
+  ],
+  "author": {
+    "name": "Toshiyuki Goto",
+    "email": "ngyuki.ts@gmail.com",
+    "url": "https://github.com/ngyuki/"
+  },
+  "licenses": "MIT",
+  "homepage": "https://github.com/ngyuki/grunt-remote-task",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ngyuki/grunt-remote-task.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ngyuki/grunt-remote-task/issues"
+  },
+  "files": [
+    "tasks/remote-task.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
