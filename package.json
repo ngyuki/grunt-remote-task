@@ -5,24 +5,18 @@
   "keywords": [
     "grunt"
   ],
+  "homepage": "https://github.com/ngyuki/grunt-remote-task",
+  "bugs": {
+    "url": "https://github.com/ngyuki/grunt-remote-task/issues"
+  },
+  "license": "MIT",
   "author": {
     "name": "Toshiyuki Goto",
     "email": "ngyuki.ts@gmail.com",
     "url": "https://github.com/ngyuki/"
   },
-  "licenses": "MIT",
-  "homepage": "https://github.com/ngyuki/grunt-remote-task",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ngyuki/grunt-remote-task.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ngyuki/grunt-remote-task/issues"
-  },
-  "files": [
-    "tasks/remote-task.js"
-  ],
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "url": "git://github.com/ngyuki/grunt-remote-task.git"
   }
 }

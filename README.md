@@ -7,7 +7,7 @@ Install Grunt
 
 ```console
 $ echo '{}' > package.json
-$ npm install --save-dev grunt grunt-contrib-watch ngyuki/grunt-remote-task
+$ npm install --save-dev grunt grunt-contrib-watch grunt-remote-task
 ```
 
 Create Gruntfile.js
