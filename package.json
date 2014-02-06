@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Grunt task for remote.",
   "keywords": [
-    "grunt"
+    "grunt", "gruntplugin"
   ],
   "homepage": "https://github.com/ngyuki/grunt-remote-task",
   "bugs": {
